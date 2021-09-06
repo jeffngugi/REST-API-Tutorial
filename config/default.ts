@@ -1,7 +1,7 @@
 export default {
   port: 1337,
   host: "localhost",
-  dbUri: "mongodb://localhost:27017/rest-api",
+  dbUri: "mongodb+srv://jeffngugi:gZ_GKBBhZ3h5f*V@tsreact.zh304.mongodb.net/tsApiClone?retryWrites=true&w=majority",
   saltWorkFactor: 10,
   accessTokenTtl: "15m",
   refreshTokenTtl: "1y",
